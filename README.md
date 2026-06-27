@@ -1,0 +1,2 @@
+# accident-severity-prediction-data-quality-analysis
+It is an end to end data analytics and machine learning project that analyzes data preprocessing, exploratory data analysis (EDA), predictive modeling, and risk analytics to uncover accident patterns based on driver, vehicle, road, and weather conditions, providing actionable insights to support road safety, policy-making, and accident prevention.
