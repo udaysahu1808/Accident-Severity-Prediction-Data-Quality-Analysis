@@ -326,8 +326,6 @@ The study successfully analyzed the impact of data quality on accident severity 
 | Jupyter Notebook | Development |
 
 
-
-
 ## Summary Table
 
 | Imputation Method | Duplicates After Imputation | Model Accuracy |
@@ -336,10 +334,6 @@ The study successfully analyzed the impact of data quality on accident severity 
 | Median (numeric) + Mode (categorical) | 0 | 77% |
 | KNN (k=5) | 0 | **80% (best)** |
 
-## ▶️ Run
-```bash
-pip install pandas numpy matplotlib seaborn missingno scikit-learn
-jupyter notebook
 
 ## 📄 License
 
@@ -361,6 +355,11 @@ Unauthorized use of this project is strictly prohibited.
 
 **Uday Sahu.**
 *Data Science Project | Road Safety & Accident Analytics Domain*
+
+## ▶️ Run
+```bash
+pip install pandas numpy matplotlib seaborn missingno scikit-learn
+jupyter notebook
 
 
 
