@@ -325,10 +325,7 @@ The study successfully analyzed the impact of data quality on accident severity 
 | Scikit-learn | Machine Learning |
 | Jupyter Notebook | Development |
 
-## ▶️ Run
-```bash
-pip install pandas numpy matplotlib seaborn missingno scikit-learn
-jupyter notebook
+
 
 
 ## Summary Table
@@ -339,6 +336,10 @@ jupyter notebook
 | Median (numeric) + Mode (categorical) | 0 | 77% |
 | KNN (k=5) | 0 | **80% (best)** |
 
+## ▶️ Run
+```bash
+pip install pandas numpy matplotlib seaborn missingno scikit-learn
+jupyter notebook
 
 ## 📄 License
 
