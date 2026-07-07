@@ -1,1 +1,30 @@
-temp
+pip install -r requirements.txt
+
+# Core Data Analysis
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization
+matplotlib>=3.9.0
+plotly>=5.24.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+
+# Automated EDA
+ydata-profiling>=4.12.0
+autoviz>=0.1.905
+dtale>=3.16.0
+
+# Notebook Support
+jupyter>=1.1.1
+ipykernel>=6.29.5
+
+# Utilities
+openpyxl>=3.1.5
+xlrd>=2.0.1
+missingno>=0.5.2
+
+# Optional (recommended)
+scipy>=1.14.0
+statsmodels>=0.14.2
