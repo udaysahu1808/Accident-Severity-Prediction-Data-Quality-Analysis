@@ -21,7 +21,7 @@
 ![Classification](https://img.shields.io/badge/Task-Classification-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-A comprehensive end-to-end data science project that analyzes road traffic accident (RTA) data to identify key risk factors, predict accident severity using machine learning, and deliver actionable insights for road safety improvement — paired with an interactive machine learning evaluation of data quality techniques.
+A comprehensive end to end data science project that analyzes road traffic accident (RTA) data to identify key risk factors, predict accident severity using machine learning and deliver actionable insights for road safety improvement paired with an interactive machine learning evaluation of data quality techniques.
 
 ---
 
