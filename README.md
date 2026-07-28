@@ -127,14 +127,24 @@ This study is important because it:
 ## 📁 Project Structure
 
 ```
-accident-severity-prediction/
+📦 Accident-Severity-Prediction-Data-Quality-Analysis
 │
-├── Accident Severity Prediction & Data Quality Analysis.ipynb            # Jupyter Notebook — EDA & ML
-├── Accident Severity Prediction & Data Quality Analysis Dashboard.pbix   # Jupyter Notebook Dashboard
-├── RTA.csv                                                        # Dataset
-├── images                                                         # Images
-├── License                                                        # LICENSE
-└── README.md                                                      # Project documentation
+├── 📂 Data
+│   └── RTA.csv
+│
+├── 📂 Images
+│   ├── Accuracy Graph.png
+│   ├── Correlation Heatmap.png
+│   ├── Key Finding.png
+│   ├── Missing Value Matrix.png
+│   └── Missing Values.png
+│
+├── 📂 Notebook
+│   └── Accident Severity Prediction & Data Quality Analysis.ipynb
+│
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
